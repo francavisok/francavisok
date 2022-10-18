@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Franca Visokolskis and i´m a FullStack Developer, 
+
 If you wish to contact me i´ll leave some links below 👇
 
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">](mailto:francavisokolskis@gmail.com) [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">](https://www.linkedin.com/in/franca-visokolskis/)
@@ -20,7 +21,7 @@ I have experience with the following Languages and Technologies 👇
 
 I love learning new technologies and improving my code...
 
- 🌱 I’m currently learning TypeScript...  
+ 🌱 I’m currently learning TypeScript and Next.js...  
 
 
 
