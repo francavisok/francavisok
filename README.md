@@ -21,7 +21,7 @@ I have experience with the following Languages and Technologies 👇
 
 I love learning new technologies and improving my code...
 
- 🌱 I’m currently learning TypeScript and Next.js...  
+
 
 
 
